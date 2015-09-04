@@ -1,8 +1,5 @@
 apple
 mango
 orange
-<<<<<<< HEAD
 peach
-=======
 banana
->>>>>>> 707cac5de97b089088f6df514d559fea14b936e0
